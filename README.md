@@ -61,15 +61,15 @@ Additionally, access to a Sisense instance with:
    cd <repository-directory>
 
 2.  **Install Dependencies**
-   ```bash
+       ```bash
       npm install
 
 3. **Configure Environment Variables**
-
+      ```bash
       Rename the .env.local.example file to .env.local.
       In .env.local, enter the Sisense instance URL and API Token.
 
 4. **Start the Project**
-
+      ```bash
       npm start    
 
