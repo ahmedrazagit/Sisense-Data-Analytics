@@ -61,7 +61,7 @@ Additionally, access to a Sisense instance with:
    cd <repository-directory>
 
 2.  **Install Dependencies**
-
+   ```bash
       npm install
 
 3. **Configure Environment Variables**
